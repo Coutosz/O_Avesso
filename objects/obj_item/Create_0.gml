@@ -1,0 +1,1 @@
+item_name = "Item Teste"; // você troca isso no Creation Code de cada instância na room
