@@ -34,7 +34,7 @@ if (_input_x != 0 || _input_y != 0) {
 } else {
     h_spd = 0;
     v_spd = 0;
-    _new_sprite = spr_player; // idle — mas face_dir mantém a última direção
+    _new_sprite = spr_player; // idle (facedir mantem a mesma direçao)
 }
 
 if (sprite_index != _new_sprite) {

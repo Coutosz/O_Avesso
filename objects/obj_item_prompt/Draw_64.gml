@@ -1,3 +1,4 @@
+draw_set_font(fnt_main)
 if (!prompt_active) exit;
 
 var _box_x = 160;

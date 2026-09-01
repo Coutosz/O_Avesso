@@ -24,7 +24,7 @@
   },
   "name":"joguin",
   "resources":[
-    {"id":{"name":"Font1","path":"fonts/Font1/Font1.yy",},},
+    {"id":{"name":"fnt_main","path":"fonts/fnt_main/fnt_main.yy",},},
     {"id":{"name":"obj_boot_sequence","path":"objects/obj_boot_sequence/obj_boot_sequence.yy",},},
     {"id":{"name":"obj_dialogue_manager","path":"objects/obj_dialogue_manager/obj_dialogue_manager.yy",},},
     {"id":{"name":"obj_fade_controller","path":"objects/obj_fade_controller/obj_fade_controller.yy",},},

@@ -1,3 +1,4 @@
+draw_set_font(fnt_main)
 if (!pause_active) exit;
 
 var _menu_x = 40;

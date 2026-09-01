@@ -1,4 +1,5 @@
-// Não mostra os stats na tela de menu (ainda não faz sentido lá)
+draw_set_font(fnt_main)
+
 if (room == rm_menu) exit;
 
 draw_set_color(c_white);

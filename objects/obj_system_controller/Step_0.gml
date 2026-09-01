@@ -7,7 +7,7 @@ if (keyboard_check_pressed(vk_f4)) {
 
 if (keyboard_check(vk_escape)) {
     esc_hold_timer += 1;
-    if (esc_hold_timer >= 120) { // 3 segundos (60 fps × 3)
+    if (esc_hold_timer >= 120) { // 2 segundos (60 fps × 2)
         game_end();
     }
 } else {

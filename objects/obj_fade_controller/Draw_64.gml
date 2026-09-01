@@ -1,3 +1,4 @@
+draw_set_font(fnt_main)
 if (global.fade_alpha > 0) {
     draw_set_color(c_black);
     draw_set_alpha(global.fade_alpha);

@@ -1,3 +1,4 @@
+draw_set_font(fnt_main)
 if (menu_state == "naming") {
     draw_set_color(c_black);
     draw_rectangle(120, 180, 520, 260, false);

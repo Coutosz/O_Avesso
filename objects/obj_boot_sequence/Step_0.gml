@@ -1,3 +1,4 @@
+draw_set_font(fnt_main)
 switch (boot_state) {
     case "logo":
         boot_timer++;
