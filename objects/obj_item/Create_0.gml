@@ -1,1 +1,1 @@
-item_name = "Item Teste"; //  trocar isso no creation code de cada instancia
+item_name = "Item Teste"; 

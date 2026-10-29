@@ -1,3 +1,4 @@
+draw_set_font(fnt_main);
 switch (global.fade_state) {
     case "out":
         global.fade_alpha += global.fade_speed;

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_battle_data",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_battle_data",
+  "parent":{
+    "name":"Sistema",
+    "path":"folders/SCRIPTS/Sistema.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,4 +1,5 @@
 if (room == rm_menu) exit;
+if (!pause_active && (instance_exists(obj_battle) || global.cutscene_active)) exit; // sem menu no meio de batalha/cutscene
 
 if (keyboard_check_pressed(ord("C")) && !obj_dialogue_manager.dialogue_active && !obj_item_prompt.prompt_active) {
     pause_active = !pause_active;

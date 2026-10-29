@@ -1,6 +1,7 @@
-draw_set_font(fnt_main)
+draw_set_font(fnt_main);
 
 if (room == rm_menu) exit;
+if (!global.debug) exit; // HUD de teste: os stats ficam no menu de pausa (C)
 
 draw_set_color(c_white);
 draw_text(10, 10, "Gold: " + string(global.gold));

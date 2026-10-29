@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_text_db",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_text_db",
+  "parent":{
+    "name":"Texto",
+    "path":"folders/SCRIPTS/Texto.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -13,13 +13,14 @@ if (menu_state == "naming") {
         global.gold = 0;
         global.lvl = 1;
         global.hp = global.hp_max;
-        global.sanity = 100;
+        global.sanity = 0; // Gratidão começa vazia e sobe com as escolhas
         global.inventory = array_create(8, "");
         global.flags = {};
+        global.party = [];
         
         keyboard_string = "";
         menu_state = "select";
-        scr_fade_to_room(Inicio, 100, 100);
+        scr_fade_to_room(rm_casa_quarto, 130, 132); // começa o Prólogo no quarto
     }
     exit;
 }

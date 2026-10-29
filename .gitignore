@@ -60,3 +60,10 @@ Temporary Items
 
 # GMRT build directory
 Build
+# GM-CLI cache
+.gmcache/
+
+# Documentos da historia (ficam so no PC da equipe, sem spoiler no GitHub)
+docs/O_Avesso_Biblia*.md
+docs/historico/
+docs/Ato*_Roteiro.md

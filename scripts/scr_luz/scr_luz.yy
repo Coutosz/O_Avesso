@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_luz",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_luz",
+  "parent":{
+    "name":"Sistema",
+    "path":"folders/SCRIPTS/Sistema.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

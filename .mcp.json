@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "gamemaker": {
+      "command": "cmd",
+      "args": ["/c", "gm-cli", "resourcetool", "mcp", "joguin.yyp"]
+    }
+  }
+}

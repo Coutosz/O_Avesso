@@ -1,0 +1,1124 @@
+[
+  {
+    "file": "moveis-novos-atlas.png",
+    "name": "spr_cama",
+    "frame": 0,
+    "crop": [
+      83,
+      52,
+      213,
+      275
+    ],
+    "w": 32,
+    "h": 48,
+    "origin": [
+      16,
+      48
+    ]
+  },
+  {
+    "file": "moveis-novos-atlas.png",
+    "name": "spr_criado_mudo",
+    "frame": 0,
+    "crop": [
+      308,
+      79,
+      425,
+      266
+    ],
+    "w": 16,
+    "h": 32,
+    "origin": [
+      8,
+      32
+    ]
+  },
+  {
+    "file": "moveis-novos-atlas.png",
+    "name": "spr_estante",
+    "frame": 0,
+    "crop": [
+      501,
+      29,
+      661,
+      278
+    ],
+    "w": 32,
+    "h": 48,
+    "origin": [
+      16,
+      48
+    ]
+  },
+  {
+    "file": "moveis-novos-atlas.png",
+    "name": "spr_sofa",
+    "frame": 0,
+    "crop": [
+      682,
+      90,
+      1050,
+      263
+    ],
+    "w": 64,
+    "h": 32,
+    "origin": [
+      32,
+      32
+    ]
+  },
+  {
+    "file": "moveis-novos-atlas.png",
+    "name": "spr_tv",
+    "frame": 0,
+    "crop": [
+      1079,
+      52,
+      1245,
+      271
+    ],
+    "w": 32,
+    "h": 48,
+    "origin": [
+      16,
+      48
+    ]
+  },
+  {
+    "file": "moveis-novos-atlas.png",
+    "name": "spr_mesa",
+    "frame": 0,
+    "crop": [
+      1275,
+      102,
+      1509,
+      271
+    ],
+    "w": 64,
+    "h": 48,
+    "origin": [
+      32,
+      48
+    ]
+  },
+  {
+    "file": "moveis-novos-atlas.png",
+    "name": "spr_cadeira",
+    "frame": 0,
+    "crop": [
+      91,
+      336,
+      206,
+      529
+    ],
+    "w": 16,
+    "h": 24,
+    "origin": [
+      8,
+      23
+    ]
+  },
+  {
+    "file": "moveis-novos-atlas.png",
+    "name": "spr_fogao",
+    "frame": 0,
+    "crop": [
+      290,
+      307,
+      459,
+      531
+    ],
+    "w": 32,
+    "h": 32,
+    "origin": [
+      16,
+      32
+    ]
+  },
+  {
+    "file": "moveis-novos-atlas.png",
+    "name": "spr_geladeira",
+    "frame": 0,
+    "crop": [
+      522,
+      278,
+      656,
+      537
+    ],
+    "w": 32,
+    "h": 64,
+    "origin": [
+      16,
+      64
+    ]
+  },
+  {
+    "file": "moveis-novos-atlas.png",
+    "name": "spr_pia",
+    "frame": 0,
+    "crop": [
+      738,
+      325,
+      1017,
+      529
+    ],
+    "w": 48,
+    "h": 32,
+    "origin": [
+      24,
+      32
+    ]
+  },
+  {
+    "file": "moveis-novos-atlas.png",
+    "name": "spr_planta",
+    "frame": 0,
+    "crop": [
+      1082,
+      325,
+      1241,
+      528
+    ],
+    "w": 16,
+    "h": 32,
+    "origin": [
+      8,
+      32
+    ]
+  },
+  {
+    "file": "moveis-novos-atlas.png",
+    "name": "spr_porta",
+    "frame": 0,
+    "crop": [
+      1319,
+      307,
+      1464,
+      518
+    ],
+    "w": 32,
+    "h": 48,
+    "origin": [
+      16,
+      48
+    ]
+  },
+  {
+    "file": "moveis-novos-atlas.png",
+    "name": "spr_janela",
+    "frame": 0,
+    "crop": [
+      34,
+      565,
+      244,
+      754
+    ],
+    "w": 64,
+    "h": 48,
+    "origin": [
+      0,
+      0
+    ]
+  },
+  {
+    "file": "moveis-novos-atlas.png",
+    "name": "spr_janela",
+    "frame": 1,
+    "crop": [
+      282,
+      565,
+      490,
+      753
+    ],
+    "w": 64,
+    "h": 48,
+    "origin": [
+      0,
+      0
+    ]
+  },
+  {
+    "file": "moveis-novos-atlas.png",
+    "name": "spr_berco_lencol",
+    "frame": 0,
+    "crop": [
+      530,
+      565,
+      759,
+      771
+    ],
+    "w": 64,
+    "h": 48,
+    "origin": [
+      32,
+      48
+    ]
+  },
+  {
+    "file": "moveis-novos-atlas.png",
+    "name": "spr_caixas",
+    "frame": 0,
+    "crop": [
+      809,
+      582,
+      1030,
+      762
+    ],
+    "w": 32,
+    "h": 32,
+    "origin": [
+      16,
+      32
+    ]
+  },
+  {
+    "file": "moveis-novos-atlas.png",
+    "name": "spr_caixas_altas",
+    "frame": 0,
+    "crop": [
+      1102,
+      571,
+      1239,
+      763
+    ],
+    "w": 16,
+    "h": 48,
+    "origin": [
+      8,
+      48
+    ]
+  },
+  {
+    "file": "moveis-novos-atlas.png",
+    "name": "spr_calendario",
+    "frame": 0,
+    "crop": [
+      1336,
+      577,
+      1449,
+      776
+    ],
+    "w": 16,
+    "h": 16,
+    "origin": [
+      8,
+      16
+    ]
+  },
+  {
+    "file": "moveis-novos-atlas.png",
+    "name": "spr_mochila",
+    "frame": 0,
+    "crop": [
+      62,
+      797,
+      218,
+      966
+    ],
+    "w": 32,
+    "h": 16,
+    "origin": [
+      16,
+      16
+    ]
+  },
+  {
+    "file": "moveis-novos-atlas.png",
+    "name": "spr_panela",
+    "frame": 0,
+    "crop": [
+      290,
+      828,
+      481,
+      962
+    ],
+    "w": 24,
+    "h": 16,
+    "origin": [
+      12,
+      15
+    ]
+  },
+  {
+    "file": "moveis-novos-atlas.png",
+    "name": "spr_sino",
+    "frame": 0,
+    "crop": [
+      576,
+      795,
+      732,
+      970
+    ],
+    "w": 14,
+    "h": 20,
+    "origin": [
+      7,
+      19
+    ]
+  },
+  {
+    "file": "moveis-novos-atlas.png",
+    "name": "spr_velinha",
+    "frame": 0,
+    "crop": [
+      862,
+      838,
+      969,
+      968
+    ],
+    "w": 12,
+    "h": 16,
+    "origin": [
+      6,
+      15
+    ]
+  },
+  {
+    "file": "moveis-novos-atlas.png",
+    "name": "spr_velinha",
+    "frame": 1,
+    "crop": [
+      1112,
+      816,
+      1219,
+      968
+    ],
+    "w": 12,
+    "h": 16,
+    "origin": [
+      6,
+      15
+    ]
+  },
+  {
+    "file": "moveis-novos-atlas.png",
+    "name": "spr_ventilador",
+    "frame": 0,
+    "crop": [
+      1317,
+      776,
+      1460,
+      982
+    ],
+    "w": 16,
+    "h": 28,
+    "origin": [
+      8,
+      27
+    ]
+  },
+  {
+    "file": "moveis-novos-atlas.png",
+    "name": "spr_porta",
+    "frame": 1,
+    "crop": [
+      1319,
+      307,
+      1464,
+      518
+    ],
+    "w": 32,
+    "h": 48,
+    "origin": [
+      16,
+      48
+    ]
+  },
+  {
+    "file": "protagonista-atlas.png",
+    "name": "spr_player_down",
+    "frame": 0,
+    "crop": [
+      136,
+      44,
+      298,
+      307
+    ],
+    "w": 24,
+    "h": 36,
+    "origin": [
+      12,
+      33
+    ]
+  },
+  {
+    "file": "protagonista-atlas.png",
+    "name": "spr_player_down",
+    "frame": 1,
+    "crop": [
+      403,
+      48,
+      563,
+      313
+    ],
+    "w": 24,
+    "h": 36,
+    "origin": [
+      12,
+      33
+    ]
+  },
+  {
+    "file": "protagonista-atlas.png",
+    "name": "spr_player_down",
+    "frame": 2,
+    "crop": [
+      684,
+      44,
+      844,
+      307
+    ],
+    "w": 24,
+    "h": 36,
+    "origin": [
+      12,
+      33
+    ]
+  },
+  {
+    "file": "protagonista-atlas.png",
+    "name": "spr_player_down",
+    "frame": 3,
+    "crop": [
+      954,
+      48,
+      1114,
+      313
+    ],
+    "w": 24,
+    "h": 36,
+    "origin": [
+      12,
+      33
+    ]
+  },
+  {
+    "file": "protagonista-atlas.png",
+    "name": "spr_player_up",
+    "frame": 0,
+    "crop": [
+      136,
+      351,
+      296,
+      614
+    ],
+    "w": 24,
+    "h": 36,
+    "origin": [
+      12,
+      33
+    ]
+  },
+  {
+    "file": "protagonista-atlas.png",
+    "name": "spr_player_up",
+    "frame": 1,
+    "crop": [
+      403,
+      351,
+      565,
+      622
+    ],
+    "w": 24,
+    "h": 36,
+    "origin": [
+      12,
+      33
+    ]
+  },
+  {
+    "file": "protagonista-atlas.png",
+    "name": "spr_player_up",
+    "frame": 2,
+    "crop": [
+      684,
+      351,
+      844,
+      614
+    ],
+    "w": 24,
+    "h": 36,
+    "origin": [
+      12,
+      33
+    ]
+  },
+  {
+    "file": "protagonista-atlas.png",
+    "name": "spr_player_up",
+    "frame": 3,
+    "crop": [
+      954,
+      351,
+      1116,
+      622
+    ],
+    "w": 24,
+    "h": 36,
+    "origin": [
+      12,
+      33
+    ]
+  },
+  {
+    "file": "protagonista-atlas.png",
+    "name": "spr_player_left",
+    "frame": 0,
+    "crop": [
+      140,
+      652,
+      286,
+      920
+    ],
+    "w": 24,
+    "h": 36,
+    "origin": [
+      12,
+      33
+    ]
+  },
+  {
+    "file": "protagonista-atlas.png",
+    "name": "spr_player_left",
+    "frame": 1,
+    "crop": [
+      407,
+      653,
+      552,
+      920
+    ],
+    "w": 24,
+    "h": 36,
+    "origin": [
+      12,
+      33
+    ]
+  },
+  {
+    "file": "protagonista-atlas.png",
+    "name": "spr_player_left",
+    "frame": 2,
+    "crop": [
+      689,
+      652,
+      834,
+      920
+    ],
+    "w": 24,
+    "h": 36,
+    "origin": [
+      12,
+      33
+    ]
+  },
+  {
+    "file": "protagonista-atlas.png",
+    "name": "spr_player_left",
+    "frame": 3,
+    "crop": [
+      960,
+      654,
+      1108,
+      920
+    ],
+    "w": 24,
+    "h": 36,
+    "origin": [
+      12,
+      33
+    ]
+  },
+  {
+    "file": "protagonista-atlas.png",
+    "name": "spr_player_right",
+    "frame": 0,
+    "crop": [
+      135,
+      946,
+      287,
+      1216
+    ],
+    "w": 24,
+    "h": 36,
+    "origin": [
+      12,
+      33
+    ]
+  },
+  {
+    "file": "protagonista-atlas.png",
+    "name": "spr_player_right",
+    "frame": 1,
+    "crop": [
+      402,
+      950,
+      553,
+      1219
+    ],
+    "w": 24,
+    "h": 36,
+    "origin": [
+      12,
+      33
+    ]
+  },
+  {
+    "file": "protagonista-atlas.png",
+    "name": "spr_player_right",
+    "frame": 2,
+    "crop": [
+      684,
+      946,
+      835,
+      1216
+    ],
+    "w": 24,
+    "h": 36,
+    "origin": [
+      12,
+      33
+    ]
+  },
+  {
+    "file": "protagonista-atlas.png",
+    "name": "spr_player_right",
+    "frame": 3,
+    "crop": [
+      954,
+      952,
+      1111,
+      1217
+    ],
+    "w": 24,
+    "h": 36,
+    "origin": [
+      12,
+      33
+    ]
+  },
+  {
+    "file": "protagonista-atlas.png",
+    "name": "spr_player",
+    "frame": 0,
+    "crop": [
+      136,
+      44,
+      298,
+      307
+    ],
+    "w": 24,
+    "h": 36,
+    "origin": [
+      12,
+      33
+    ]
+  },
+  {
+    "file": "personagens-atlas.png",
+    "name": "spr_mae",
+    "frame": 0,
+    "crop": [
+      110,
+      8,
+      263,
+      347
+    ],
+    "w": 24,
+    "h": 44,
+    "origin": [
+      12,
+      42
+    ]
+  },
+  {
+    "file": "personagens-atlas.png",
+    "name": "spr_pai",
+    "frame": 0,
+    "crop": [
+      379,
+      16,
+      542,
+      331
+    ],
+    "w": 24,
+    "h": 44,
+    "origin": [
+      12,
+      42
+    ]
+  },
+  {
+    "file": "personagens-atlas.png",
+    "name": "spr_nana",
+    "frame": 0,
+    "crop": [
+      583,
+      30,
+      894,
+      341
+    ],
+    "w": 40,
+    "h": 48,
+    "origin": [
+      20,
+      47
+    ]
+  },
+  {
+    "file": "personagens-atlas.png",
+    "name": "spr_fio",
+    "frame": 0,
+    "crop": [
+      940,
+      42,
+      1127,
+      338
+    ],
+    "w": 22,
+    "h": 44,
+    "origin": [
+      11,
+      43
+    ]
+  },
+  {
+    "file": "personagens-atlas.png",
+    "name": "spr_espinho",
+    "frame": 0,
+    "crop": [
+      93,
+      350,
+      318,
+      665
+    ],
+    "w": 28,
+    "h": 42,
+    "origin": [
+      14,
+      41
+    ]
+  },
+  {
+    "file": "personagens-atlas.png",
+    "name": "spr_faisca",
+    "frame": 0,
+    "crop": [
+      375,
+      403,
+      570,
+      640
+    ],
+    "w": 22,
+    "h": 26,
+    "origin": [
+      11,
+      25
+    ]
+  },
+  {
+    "file": "personagens-atlas.png",
+    "name": "spr_vasinho",
+    "frame": 0,
+    "crop": [
+      630,
+      430,
+      824,
+      645
+    ],
+    "w": 20,
+    "h": 22,
+    "origin": [
+      10,
+      21
+    ]
+  },
+  {
+    "file": "personagens-atlas.png",
+    "name": "spr_ani",
+    "frame": 0,
+    "crop": [
+      958,
+      383,
+      1094,
+      679
+    ],
+    "w": 18,
+    "h": 26,
+    "origin": [
+      9,
+      25
+    ]
+  },
+  {
+    "file": "personagens-atlas.png",
+    "name": "spr_relogio",
+    "frame": 0,
+    "crop": [
+      91,
+      665,
+      260,
+      972
+    ],
+    "w": 18,
+    "h": 30,
+    "origin": [
+      9,
+      29
+    ]
+  },
+  {
+    "file": "personagens-atlas.png",
+    "name": "spr_escorregador",
+    "frame": 0,
+    "crop": [
+      322,
+      675,
+      616,
+      975
+    ],
+    "w": 44,
+    "h": 36,
+    "origin": [
+      22,
+      35
+    ]
+  },
+  {
+    "file": "personagens-atlas.png",
+    "name": "spr_anima_silhueta",
+    "frame": 0,
+    "crop": [
+      622,
+      669,
+      886,
+      975
+    ],
+    "w": 44,
+    "h": 70,
+    "origin": [
+      22,
+      69
+    ]
+  },
+  {
+    "file": "personagens-atlas.png",
+    "name": "spr_poeira",
+    "frame": 0,
+    "crop": [
+      930,
+      760,
+      1164,
+      975
+    ],
+    "w": 56,
+    "h": 20,
+    "origin": [
+      28,
+      19
+    ]
+  },
+  {
+    "file": "personagens-atlas.png",
+    "name": "spr_retrato_mae",
+    "frame": 0,
+    "crop": [
+      61,
+      987,
+      315,
+      1256
+    ],
+    "w": 48,
+    "h": 48,
+    "origin": [
+      0,
+      0
+    ]
+  },
+  {
+    "file": "personagens-atlas.png",
+    "name": "spr_retrato_mae_cansada",
+    "frame": 0,
+    "crop": [
+      346,
+      987,
+      601,
+      1257
+    ],
+    "w": 48,
+    "h": 48,
+    "origin": [
+      0,
+      0
+    ]
+  },
+  {
+    "file": "personagens-atlas.png",
+    "name": "spr_retrato_pai",
+    "frame": 0,
+    "crop": [
+      631,
+      991,
+      893,
+      1257
+    ],
+    "w": 48,
+    "h": 48,
+    "origin": [
+      0,
+      0
+    ]
+  },
+  {
+    "file": "personagens-atlas.png",
+    "name": "spr_retrato_pai_sem_graca",
+    "frame": 0,
+    "crop": [
+      921,
+      995,
+      1184,
+      1257
+    ],
+    "w": 48,
+    "h": 48,
+    "origin": [
+      0,
+      0
+    ]
+  },
+  {
+    "file": "personagens-atlas.png",
+    "name": "spr_faisca",
+    "frame": 1,
+    "crop": [
+      375,
+      403,
+      570,
+      640
+    ],
+    "w": 22,
+    "h": 26,
+    "origin": [
+      11,
+      25
+    ]
+  },
+  {
+    "file": "personagens-atlas.png",
+    "name": "spr_vasinho_batalha",
+    "frame": 0,
+    "crop": [
+      630,
+      430,
+      824,
+      645
+    ],
+    "w": 60,
+    "h": 66,
+    "origin": [
+      30,
+      65
+    ]
+  },
+  {
+    "file": "objetos-atlas.png",
+    "name": "spr_carrinho",
+    "frame": 0,
+    "crop": [
+      57,
+      157,
+      390,
+      397
+    ],
+    "w": 24,
+    "h": 22,
+    "origin": [
+      12,
+      21
+    ]
+  },
+  {
+    "file": "objetos-atlas.png",
+    "name": "spr_patinete",
+    "frame": 0,
+    "crop": [
+      474,
+      71,
+      833,
+      407
+    ],
+    "w": 18,
+    "h": 22,
+    "origin": [
+      9,
+      21
+    ]
+  },
+  {
+    "file": "objetos-atlas.png",
+    "name": "spr_mala",
+    "frame": 0,
+    "crop": [
+      918,
+      151,
+      1254,
+      397
+    ],
+    "w": 22,
+    "h": 16,
+    "origin": [
+      11,
+      15
+    ]
+  },
+  {
+    "file": "objetos-atlas.png",
+    "name": "spr_rede",
+    "frame": 0,
+    "crop": [
+      1336,
+      133,
+      1725,
+      380
+    ],
+    "w": 52,
+    "h": 24,
+    "origin": [
+      26,
+      23
+    ]
+  },
+  {
+    "file": "objetos-atlas.png",
+    "name": "spr_cadeira_praia",
+    "frame": 0,
+    "crop": [
+      69,
+      471,
+      373,
+      832
+    ],
+    "w": 20,
+    "h": 22,
+    "origin": [
+      10,
+      21
+    ]
+  },
+  {
+    "file": "objetos-atlas.png",
+    "name": "spr_varal_luz",
+    "frame": 0,
+    "crop": [
+      450,
+      555,
+      918,
+      736
+    ],
+    "w": 64,
+    "h": 12,
+    "origin": [
+      32,
+      11
+    ]
+  }
+]
