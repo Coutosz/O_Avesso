@@ -2,7 +2,7 @@
 
 > *tudo que a gente não diz vai parar em algum lugar*
 
-RPG narrativo 2D em pixel art, feito em **GameMaker (GML)** por uma equipe pequena. Uma menina cai no Avesso, um mundo feito das coisas que as pessoas não dizem, e atravessa esse mundo ao lado da Faísca.
+RPG narrativo 2D em pixel art, feito em **GameMaker (GML)**. Projeto solo. Uma menina cai no Avesso, um mundo feito das coisas que as pessoas não dizem, e atravessa esse mundo ao lado da Faísca.
 
 🚧 **Em desenvolvimento:** Prólogo e Ato 1 jogáveis.
 
@@ -33,6 +33,6 @@ O passo a passo de onde mexer em cada coisa está em [`docs/Guia_Tecnico_Ato1.md
 2. Clone o repositório e abra o `joguin.yyp`.
 3. Rode com **F5**.
 
-## 👥 Equipe
+## 👤 Autor
 
-Desenvolvido por [Pedro Couto](https://github.com/Coutosz) e equipe. Arte dos personagens feita pela equipe.
+Projeto solo de [Pedro Couto](https://github.com/Coutosz): história, design e arquitetura. Código desenvolvido com apoio do [Claude Code](https://claude.com/claude-code).
